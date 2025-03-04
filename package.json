@@ -1,0 +1,22 @@
+{
+  "name": "bot-leave-servers",
+  "version": "1.0.0",
+  "description": "A script that forces the bot to log out from all servers with fewer than a certain number of participants.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "discord.js",
+    "discord.js-bot",
+    "bot-leaver",
+    "bot-leave",
+    "guild-leaver",
+    "guild-leave"
+  ],
+  "author": "Zloy01",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
